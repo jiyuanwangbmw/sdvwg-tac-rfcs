@@ -1,0 +1,17 @@
+[book]
+title = "The Eclipse SDV WG TAC RFC Book"
+
+[output.html]
+smart-punctuation = true
+no-section-label = true
+git-repository-url = "https://github.com/PLeVasseur/sdvwg-tac-rfcs"
+site-url = "/sdvwg-tac-rfcs/"
+
+[output.html.search]
+heading-split-level = 0
+
+[output.html.playground]
+runnable = false
+
+[build]
+extra-watch-dirs = ["text"]
