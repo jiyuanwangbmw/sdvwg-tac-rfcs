@@ -1,6 +1,6 @@
 - RFC Title: Eclipse SDV Project Purview Rating Criteria and Process
 - Submission Date: 2026-09-25
-- RFC PR: (replace with the pull request URL)
+- RFC PR: https://github.com/PLeVasseur/sdvwg-tac-rfcs/pull/2
 - Follow-on Actions: (to be filled in after the TAC review)
 
 # Summary
